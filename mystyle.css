@@ -1,0 +1,43 @@
+
+body {
+    /* background-color: rgb(244, 198, 117);   */
+    /* background-image:url("images/canarias.jpg");  */
+  
+
+}
+
+.wrapper {
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-image: url("images/canarias.jpg");
+  background-repeat: no-repeat;
+
+}
+  
+
+.background_image {
+
+    /* background-color: rgb(244, 198, 117); */
+    background-image: url("images/canarias.jpg"); 
+    background-repeat: no-repeat;
+}
+
+
+
+#p1 {
+    border-radius: 25px;
+    padding: 30px;
+    width: 400px;
+    height: 50px;
+    background-color:hsla(12, 33%, 97%, .5);
+}
+
+#nav1 {
+    border-radius: 25px;
+    padding: 30px;
+    width: 200px;
+    height: 25px;
+    background-color:hsla(12, 33%, 97%, .5);
+}
